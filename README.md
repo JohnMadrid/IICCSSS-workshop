@@ -11,3 +11,21 @@ devices' latencies previous to start the recording phase.
 files used for even related potential analysis (ERP).
 - <strong>data:</strong> folder for the latency test files.
 - <strong>data-onset:</strong> folder for the experiment file.
+
+### To create the environment:
+
+`Python 3.8` or higher
+
+1. Create a folder and place `requirements.txt`
+2. From the terminal, go to the created folder and run:
+
+For <strong>Windows:</strong> 
+`python -m venv iiccsss-eeg`
+
+And then, `iiccsss-eeg\Scripts\python -m pip install -r requirements.txt`
+
+For <strong>Mac/Linux:</strong> 
+`python3 -m venv iiccsss-eeg`
+
+And then, `iiccsss-eeg/bin/python -m pip install -r requirements.txt`
+
