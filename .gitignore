@@ -14,3 +14,9 @@ data-onsets/
 stimulus-onsets.ipynb
 
 latency-tests-solution.ipynb
+
+*.html
+
+*.jpeg
+
+.ipynb_checkpoints/latency-tests-solution-checkpoint.ipynb
