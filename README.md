@@ -1,7 +1,7 @@
 <img src="logos/‎cover‎001.png" alt="Drawing"/>
 
 The purpose of this repository is to learn about measuring latencies and identifying stimulus onsets for experiments 
-combining electroencephalogram (EEG) and Virtual reality. We used Unity to design a virtual environment and
+combining electroencephalogram (EEG) and virtual reality (VR). We used Unity 3D to design a virtual environment and
 Lab Streaming Layer (LSL) to simultaneously collect, synchronize, and store the data. 
 
 The repository contains:
