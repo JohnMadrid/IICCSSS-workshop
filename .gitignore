@@ -12,3 +12,5 @@ data/
 data-onsets/
 
 stimulus-onsets.ipynb
+
+latency-tests-solution.ipynb
