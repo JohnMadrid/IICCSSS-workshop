@@ -12,9 +12,11 @@ files used for even related potential analysis (ERP).
 - <strong>data:</strong> folder for the latency test files (_Note:_ make sure to unzip data).
 - <strong>data-onset:</strong> folder for the experiment file (_Note:_ make sure to unzip data).
 
-### To create the environment:
+### Requisites
+* `Python 3.8` or higher
+* Latest version of `pip` installed, see troubleshooting for upgrade
 
-`Python 3.8` or higher
+### To create the environment:
 
 1. Create a folder and place `requirements.txt`
 2. From the terminal, go to the created folder and run:
