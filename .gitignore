@@ -14,3 +14,7 @@ latency-tests-solution.ipynb
 *.jpeg
 
 .ipynb_checkpoints/latency-tests-solution-checkpoint.ipynb
+
+*.xdf
+
+*.csv
