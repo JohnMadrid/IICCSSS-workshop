@@ -29,3 +29,18 @@ For <strong>Mac/Linux:</strong>
 
 And then, `iiccsss-eeg/bin/python -m pip install -r requirements.txt`
 
+### Troubleshooting
+
+When error as follows occurs:
+
+`raise BackendUnavailable` or
+`pip._vendor.pep517.wrappers.BackendUnavailable`
+
+run  
+For <strong>Windows:</strong>
+`iiccsss-eeg\Scripts\python -m pip install --upgrade pip`
+
+For <strong>Mac/Linux:</strong>
+`iiccsss-eeg/bin/python -m pip install --upgrade pip`
+
+And then re-run step 2 above
