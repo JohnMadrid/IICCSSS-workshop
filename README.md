@@ -9,8 +9,8 @@ The repository contains:
 devices' latencies previous to start the recording phase.
 - <strong>trigger-onsets.ipynb:</strong> It contains tasks to learn how to identify stimulus onsets and create the trigger 
 files used for even related potential analysis (ERP).
-- <strong>data:</strong> folder for the latency test files.
-- <strong>data-onset:</strong> folder for the experiment file.
+- <strong>data:</strong> folder for the latency test files (_Note:_ make sure to unzip data).
+- <strong>data-onset:</strong> folder for the experiment file (_Note:_ make sure to unzip data).
 
 ### To create the environment:
 
